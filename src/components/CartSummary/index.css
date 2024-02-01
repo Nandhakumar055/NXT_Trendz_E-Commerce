@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.cart-summary-container {
+  align-self: flex-end;
+}
+
+.order-total-value {
+  font-size: 30px;
+}
+.order-total-label {
+  font-size: 30px;
+}
+
+.checkout-button {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-image: linear-gradient(
+    to right,
+    rgb(141, 7, 168),
+    rgb(199, 16, 190)
+  );
+  border: none;
+  border-radius: 5px;
+  padding: 10px 18px;
+  outline: none;
+  cursor: pointer;
+}

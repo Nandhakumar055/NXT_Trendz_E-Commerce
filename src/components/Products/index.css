@@ -1,0 +1,11 @@
+.product-main-section-container {
+  background-color: rgb(238, 238, 238);
+}
+
+.product-sections {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 90%;
+  max-width: 1110px;
+}
